@@ -53,7 +53,7 @@ RATING_FILE = os.path.join(BASE_DIR, 'rating_data.json')
 router = Router()
 
 # Конфигурация
-BOT_TOKEN = "7378923438:AAE65rxUVcyFr30iV1nEpBhh7nHDy7gonUg"
+BOT_TOKEN = ""
 ADMIN_IDS = [1824224788]
 session = AiohttpSession(proxy='http://proxy.server:3128')
 
